@@ -1,0 +1,18 @@
+.formulario {
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+label {
+    margin-right: 5px;
+}
+
+.parrafos {
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
